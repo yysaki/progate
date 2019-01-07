@@ -1,0 +1,62 @@
+body {
+  margin: 0;
+  font-family: "Hiragino Kaku Gothic ProN";
+}
+
+a {
+  text-decoration: none;
+}
+
+.container {
+  width: 1170px;
+  padding: 0px 15px;
+  margin: 0px auto;
+}
+
+.top-wrapper {
+  padding: 180px 0px 100px 0px;
+  background-image: url(https://prog-8.com/images/html/advanced/top.png);
+  color: white;
+  background-size: cover;
+}
+
+.top-wrapper h1 {
+  opacity: 0.7;
+  font-size: 45px;
+  letter-spacing: 5px;
+}
+
+.top-wrapper p {
+  opacity: 0.7;
+}
+
+.btn {
+  padding: 8px 24px;
+  color: white;
+  display: inline-block;
+  opacity: 0.8;
+}
+
+.signup {
+  background-color: #239b76;
+}
+
+.facebook {
+  background-color: #3b5998;
+}
+
+.twitter {
+  background-color: #55acee;
+}
+
+.btn-wrapper {
+  margin: 20px 0px;
+}
+
+.btn-wrapper p {
+  margin: 10px 0px;
+}
+
+.facebook {
+  margin-right: 10px;
+}
